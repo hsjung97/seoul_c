@@ -32,9 +32,6 @@ int main(void){
             }
         }
 
-    
-
-
         printf("==========출력===========\n");
         for(int q=0; q<5; q++){
             printf("\n");

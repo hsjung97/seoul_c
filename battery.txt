@@ -1,0 +1,311 @@
+
+SESSION ID	START TIME	DURATION	STATE	ENERGY CHANGE	CHANGE RATE	% LOW POWER STATE TIME	% CAPACITY REMAINING AT START
+1
+2025-10-22 11:12:18
+5:38:42
+Active
+-
+-
+-
+Charge
+-
+-
+2
+ 16:51:01
+0:14:20
+Screen Off
+-
+-
+-
+Charge
+-
+-
+3
+ 17:05:22
+16:05:35
+Standby
+-
+-
+-
+Charge
+-
+-
+4
+2025-10-23 09:10:58
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+5
+ 09:10:58
+7:41:57
+Active
+-
+-
+-
+Charge
+-
+-
+6
+ 16:52:55
+1:06:42
+Screen Off
+-
+-
+-
+Charge
+-
+-
+7
+ 17:59:39
+15:09:07
+Standby
+-
+-
+-
+Charge
+-
+-
+8
+2025-10-24 09:08:46
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+9
+ 09:08:46
+7:42:52
+Active
+-
+-
+-
+Charge
+-
+-
+10
+ 16:51:39
+0:14:20
+Screen Off
+-
+-
+-
+Charge
+-
+-
+11
+ 17:06:00
+64:00:26
+Standby
+-
+-
+-
+Charge
+-
+-
+12
+2025-10-27 09:06:27
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+13
+ 09:06:27
+0:01:00
+Active
+-
+-
+-
+Charge
+-
+-
+14
+ 09:07:27
+0:01:21
+Screen Off
+-
+-
+-
+Charge
+-
+-
+15
+ 09:08:49
+7:41:34
+Active
+-
+-
+-
+Charge
+-
+-
+16
+ 16:50:23
+0:13:59
+Screen Off
+-
+-
+-
+Charge
+-
+-
+17
+ 17:04:23
+0:02:18
+Standby
+-
+-
+-
+Charge
+-
+-
+18
+ 17:06:42
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+19
+ 17:06:42
+0:27:50
+Active
+-
+-
+-
+Charge
+-
+-
+20
+ 17:34:33
+0:00:17
+Screen Off
+-
+-
+-
+Charge
+-
+-
+21
+ 17:34:50
+0:01:00
+Active
+-
+-
+-
+Charge
+-
+-
+22
+ 17:35:50
+0:04:10
+Screen Off
+-
+-
+-
+Charge
+-
+-
+23
+ 17:40:01
+0:08:24
+Active
+-
+-
+-
+Charge
+-
+-
+24
+ 17:48:25
+15:23:43
+Hybrid Shutdown
+-
+-
+-
+Charge
+-
+-
+25
+2025-10-28 09:12:09
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+26
+ 09:12:09
+7:39:51
+Active
+-
+-
+-
+Charge
+-
+-
+27
+ 16:52:00
+0:14:25
+Screen Off
+-
+-
+-
+Charge
+-
+-
+28
+ 17:06:26
+16:09:58
+Standby
+-
+-
+-
+Charge
+-
+-
+29
+2025-10-29 09:16:25
+0:00:00
+Screen Off
+-
+-
+-
+Charge
+-
+-
+30
+ 09:17:00
+5:58:14
+Active
+-
+-
+-
+Charge
+-
+-
+31
+ 15:15:14
+0:00:00
+Report Generated
+-
+-
+-
+Charge
+-
